@@ -1,0 +1,92 @@
+1/26/17: 
+	Code for prof Downloaded and studied * project starts
+1/27/17: 
+	methods load_file and save_file are added. 
+	trying to setup the save first as it seemed easier. 
+1/28/17:
+	Methods save and load worked on, if statment added for directory change 
+	** reading new file name is broken and leaving file name . 
+1/29/17: 
+	redoing Method save, later changing print/load. 
+	didn't use uint32_t and others. 
+
+1/31/17: 
+	Not sure if save works but does not seem to throw error and hex apears to be okay
+	Load/print still giving issues, 
+	Core dump, 
+2/1/17: 
+	debuging load/ print, Modified save to make things simpler and to fix up mistakes that 
+	where made. 
+2/2/17:
+	debuging still... Cannot seem to render saved maps.. 
+	hex for the save looks fine. and can over write files... 
+Assignment 1.03
+
+2/3/17: 
+	Downloaded the Solution for the 1.02, Had the project set up. Over looked the changes the 
+	made. 
+2/6/17:
+	made 2 copies of dijsktra, One for tunneling one, one for nontunneling. 
+	Setting up, the calc_hardness. 
+2/7/17:
+	Made changes in  the two coppied methods, implementing changes to keep track of the cost. 
+2/8/17:
+	Due date, was extended, Having to redo the whole node thing.. 
+	pc added !
+2/10/17:
+	re did the nodes, added things to replace the cost..and have made attempts to print out.. 
+2/13/17: 
+	Redoing the nodes again.. they needed costs to make.. Maps are having issues to print. 
+2/14/17: 
+	Valentines day, Still doing  the 3rd redo of the nodes, still seg faulting and getting no where in the printing. 
+2/15/17:
+	had done 4th iteration of the if statements nodes.. This time it is working, The code now 		also prints, Showing some errors. Some methods where made useless. 
+2/17/17 : 
+	solution downloaded to begin the assignment 1.04 
+2/18/17: 
+	npc struct made, small tests being done for the event.. 
+2/19/17: 
+	event struct coppied from the discussion board. Creation of the Make_monsters method is 
+	is done.. 
+2/20/17: 
+	having issue with the Q, Am needig help with the movements as they asre underestimated. 
+	prinint bug where 1's took precidents over any other char/ monster . 
+2/21/17: 
+	new way to print the chars the maps, monster printed right. 
+	Q seems right now way to tell if it is as movements are broken. 
+2/22/17: 
+	movements makes segfaults retrying different way. Tryng with structs, am loosing hope.. 	This is hard as hell man..  
+
+3/2/17: Project started,  test go in the way. no laptop.. Having to use the bad back up..  
+3/4/17: reading and understanding professors code. 
+
+3/5/17: Stair im[plementations has begun. 
+3/6/17:issue with trying to make the swtich/ ncurses lib. 
+3/7/17: stairs and the 80x21 box made. 
+
+3/8/17: have some movement there alot of bugs.. cannot keep count 
+	one goes and more happpen. 
+	Time stap 3:51 cannot get all the bugs. 
+
+
+**Spring break*** 
+	- Said I was going to do work on it.. it was a lie
+
+3/20/17
+	Began with downloading the prof code. 
+	reading/ understanding the code.
+3/21/17
+ 	confused on how to start the porgram. 
+	messed up by making the fog of war in c, that doesnt exist anymore. 
+	have attempted to start the .cpp conversion. 
+	bugs exist. 
+3/22/
+	still alot of bugs. 
+	help room to clarify issues. 
+	prgressed. 
+	cannot get game to get going.. i think name mangaling..
+3/23/17
+	woke up to try to fix that issue.. woke up at 5.. 
+	cannot get it... 
+
+	
